@@ -1,4 +1,6 @@
 # teamwork-test-repo
 
-Maria: I added something here! Trololol
+Maria: I add something here! Trololol
 Tisho: i add too!!!
+
+Мария: Waiting for conflict

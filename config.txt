@@ -2,3 +2,5 @@ name = Maria
 email=marialbst@gmail.com
 size=175
 
+ок!!! редактирах си това редче да видим...
+
