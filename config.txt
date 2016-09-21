@@ -1,4 +1,8 @@
-name = Maria
-email=marialbst@gmail.com
+name = zorry
+email=zorry@home
 size=175
+
+изтрих твоя ред и си пиша мой
+
+Добавям и това редче
 
