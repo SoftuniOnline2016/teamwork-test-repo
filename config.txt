@@ -1,5 +1,5 @@
-name = Maria
-email=maria@maria.maria
+name = zorry
+email=zorry@home
 size=175
 
 изтрих твоя ред и си пиша мой
