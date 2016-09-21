@@ -1,0 +1,3 @@
+name = Tihomir
+email=ti6ko.tp@gmail.com
+size=180
