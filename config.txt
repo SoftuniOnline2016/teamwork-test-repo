@@ -1,6 +1,8 @@
-name = Zorry
-email=zorry@mail.bg
-size=172
+name = Maria
+email=maria@maria.maria
+size=175
 
 изтрих твоя ред и си пиша мой
+
+Добавям и това редче
 
