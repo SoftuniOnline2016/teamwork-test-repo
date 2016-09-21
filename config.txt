@@ -1,4 +1,4 @@
 name = Zorry
-email=zorry@gmail.com
+email=zorry@mail.bg
 size=172
 
