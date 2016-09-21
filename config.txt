@@ -1,3 +1,4 @@
-name = Tihomir
-email=ti6ko.tp@gmail.com
-size=180
+name = Maria
+email=marialbst@gmail.com
+size=175
+
